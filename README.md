@@ -1,1 +1,2 @@
 # sentimental_analysis
+Sentiment analysis is the process of using natural language processing (NLP) and machine learning to determine the emotional tone behind a body of text. In our analysis, we examined textual data to classify sentiments as positive, negative, or neutral. This helped us gain insights into customer opinions, social media trends, or overall public perception of a particular topic. The results can be used to enhance decision-making, improve customer engagement, and monitor brand reputation.
